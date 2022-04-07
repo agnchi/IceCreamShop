@@ -1,0 +1,8 @@
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\bin\Debug\IceCreamFactory.exe.config
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\bin\Debug\IceCreamFactory.exe
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\bin\Debug\IceCreamFactory.pdb
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\obj\Debug\IceCreamFactory.csproj.AssemblyReference.cache
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\obj\Debug\IceCreamFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\obj\Debug\IceCreamFactory.csproj.CoreCompileInputs.cache
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\obj\Debug\IceCreamFactory.exe
+C:\Users\agnie\Desktop\Salman_Csharp\Programy\IceCreamFactory\obj\Debug\IceCreamFactory.pdb
